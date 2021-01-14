@@ -1,0 +1,84 @@
+.carousel-item {
+    background-color: #fceae8;
+}
+
+.pricing-color {
+    color: #ff136f;
+    font-size: 3em;
+}
+
+.btn-color {
+    background-image: linear-gradient(to right, #f857a6 0%, #ff5858 51%, #f857a6 100%)
+}
+
+.btn-color {
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+.btn-color:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+.card {
+    border: 0;
+    border-radius: 10px;
+}
+
+.card-footer {
+    border: 0;
+    background-color: #ffffff;
+}
+
+.footer {
+    background-color: #fceae8;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.footer-heading {
+    color: #000;
+}
+
+.footer-sub-heading {
+    color: #808080;
+}
+
+.footer input {
+    height: 50px;
+    width: 250px;
+    border: 0;
+    padding: 10px;
+}
+
+.footer .button {
+    width: 150px;
+    height: 50px;
+    border: 0;
+    background-color: #ff267c;
+    color: #fff;
+}
+
+footer {
+    color: #000;
+    margin: 30px 0px 0px 0px;
+    text-align: center;
+}
+
+.card {
+    padding-bottom: 15px;
+}
+
+.navbar {
+    z-index: 9999999;
+}
